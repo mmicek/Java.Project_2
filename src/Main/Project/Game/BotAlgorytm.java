@@ -219,10 +219,7 @@ public class BotAlgorytm {
     }
 
     private class Package{
-        /**
-         * result to tablica intow gdzie 0 to nasz gracz a kazda inna liczba to ilosc ruchow potrzebnych do przejscia
-         * na dane pole
-         */
+
         private int [][] result;
         private List<Position> sortedSnipped;
         private List<Position> mines;
