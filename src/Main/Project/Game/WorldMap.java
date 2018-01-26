@@ -9,7 +9,6 @@ import Project.Settings.BlockTypes;
 import Project.Settings.BugType;
 import Project.Settings.Directions;
 import Project.Settings.Position;
-import javafx.geometry.Pos;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
